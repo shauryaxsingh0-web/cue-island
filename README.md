@@ -9,7 +9,7 @@ Use an Apple Silicon Mac running macOS 14 or later and a recent version of Apple
 From the repository root, run
 
 ```sh
-./build.command
+zsh ./build.command
 open ./CueIsland.app
 ```
 
